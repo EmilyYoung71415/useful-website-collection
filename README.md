@@ -75,6 +75,8 @@
 
 4. [OBKoro1 http://www.jianshu.com/u/8d1dd8c80f06](http://www.jianshu.com/u/8d1dd8c80f06)
 
+5. [腾讯alloyteam http://www.alloyteam.com](http://www.alloyteam.com)
+
 ----------
 # 在线刷题
 1. [LeetCode http://www.leetcode.com/](http://www.leetcode.com/)
